@@ -1,0 +1,6 @@
+{
+  "name": "Tailor Manager",
+  "description": "Complete tailor shop management app with orders, customers, measurements, and billing in Urdu and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tailor Manager</string>
+    <string name="app_tagline">Shop Management System · درزی کا نظام</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_new">New Order</string>
+    <string name="nav_customers">Customers</string>
+    
+    <!-- Urdu sub-labels -->
+    <string name="sub_home">ہوم</string>
+    <string name="sub_orders">آرڈر</string>
+    <string name="sub_new">نیا</string>
+    <string name="sub_customers">گاہک</string>
+    
+    <!-- Stats -->
+    <string name="stat_today">Today\'s Orders</string>
+    <string name="stat_today_ur">آج کے آرڈر</string>
+    <string name="stat_pending">Pending</string>
+    <string name="stat_pending_ur">زیر التوا</string>
+    <string name="stat_completed">Completed</string>
+    <string name="stat_completed_ur">مکمل</string>
+    <string name="stat_ready">Ready</string>
+    <string name="stat_ready_ur">تیار</string>
+    <string name="stat_sales">Total Sales</string>
+    <string name="stat_sales_ur">کل فروخت</string>
+    <string name="stat_due">Pending Payments</string>
+    <string name="stat_due_ur">باقی رقم</string>
+
+    <!-- General -->
+    <string name="currency">Rs.</string>
+</resources>
